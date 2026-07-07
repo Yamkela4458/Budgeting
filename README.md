@@ -2,9 +2,6 @@
 
 An interactive e-learning module designed to teach foundational personal budgeting skills, built as part of an instructional design portfolio.
 
-## Live Demo
-[View the course here](https://yamkela4458.github.io/Budgeting/)
-
 ## Overview
 This course introduces young adults to core budgeting concepts, including the difference between income and expenses, the 50/30/20 budgeting rule, and how to build a simple monthly budget. Learners are also guided through common budgeting mistakes and how to avoid them.
 
