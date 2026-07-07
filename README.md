@@ -13,8 +13,8 @@ By the end of this course, learners will be able to:
 - Identify and avoid common budgeting mistakes
 
 ## Tools Used
-- Microsoft PowerPoint – slide design and content layout
-- iSpring Suite – interactivity, quiz creation, and HTML5 publishing
+- Microsoft PowerPoint - slide design and content layout
+- iSpring Suite - interactivity, quiz creation, and HTML5 publishing
 
 ## Course Structure
 1. Title Slide
@@ -32,6 +32,4 @@ By the end of this course, learners will be able to:
 - Interactive quiz with instant feedback
 - Real-world budgeting scenario (worked example)
 - Clean, learner-friendly slide design
-- Published as HTML5 for direct browser access — no login required
-
-## Repository Contents
+- Published as HTML5 for direct browser access - no login required
